@@ -1,0 +1,167 @@
+/********* tag selectors **********/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: merriweather, serif;
+  color:#40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: pacifico, cursive;
+  font-size: 2.5rem;
+  color: #ffa34d;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 0 auto 10px auto;
+  color: #11999E;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: 900;
+  margin: 50px auto 0;
+}
+
+p {
+  margin: 10px auto 60px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: Montserrat;
+  text-decoration: none;
+  margin: auto 30px;
+}
+
+a:hover {
+  color: #ebfbfa;
+}
+
+hr {
+  width: 5%;
+  margin: 0 auto 80px auto;
+  border-top: 6px dotted;
+  border-bottom: 0;
+  color: grey;
+}
+
+/********* .class selectors **********/
+
+
+.top-container {
+  background-color: #1eb2a6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #eeeeee;
+}
+
+.profile-pic {
+  height:200px;
+  margin:100px auto 0 auto;
+}
+
+.intro-desc {
+  margin: 50px auto 80px auto;
+  width: 30%;
+  line-height: 2;
+}
+
+.sales {
+  width: 15%;
+  float: left;
+  margin-right: 40px;
+}
+
+.esports {
+  width: 15%;
+  float: right;
+  margin-left: 40px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 320px;
+  left: 400px;
+}
+
+.web-developper {
+  font-weight:normal;
+  color: orange;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  padding-bottom: 80px;
+  margin-bottom: 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  height:90px;
+  position: relative;
+  padding-top: 50px;
+}
+
+
+.btn {
+  background: #29c1cc;
+  background-color: orange;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: gold;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+
+.copyright {
+  margin: 40px auto 0;
+  font-size: .7rem;
+  color: #EAF6F6;
+}
+
+.but-call-me {
+  margin: 10px auto 0 auto;
+}
+
+.moe {
+  font-family: pacifico;
+  font-size: 2.5rem;
+}
+
+/****website colour palette  https://colorhunt.co/palette/175532
+turquoise: #1eb2a6
+light turquoise: #d4f8e8
+bright orange: #ffa34d
+bright pink: #f67575
+****
